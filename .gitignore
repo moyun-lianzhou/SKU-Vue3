@@ -1,0 +1,14 @@
+# 依赖
+node_modules
+
+# 编译输出
+dist
+out
+
+# IDE 和编辑器
+.idea
+.vscode
+
+# 环境变量
+.env
+.env.*

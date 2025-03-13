@@ -1,0 +1,76 @@
+{
+    "code": "1",
+    "msg": "操作成功",
+    "result": {
+        "id": "1135076",
+        "name": "红豆450克*3袋",
+        "desc": "皮薄易煮，粒粒香甜",
+        "specs": [
+            {
+                "name": "规格",
+                "id": "1482370734946910211",
+                "values": [
+                    {
+                        "name": "450克*6袋",
+                        "picture": "./src/assets/pictures/450-6.png",
+                        "desc": "红豆-销售属性规格-450克*6袋-规格属性图片"
+                    },
+                    {
+                        "name": "450克*3袋",
+                        "picture": "./src/assets/pictures/450-3.png",
+                        "desc": "红豆-销售属性规格-450克*3袋-规格属性图片"
+                    },
+                    {
+                        "name": "450克",
+                        "picture": "./src/assets/pictures/450-1.png",
+                        "desc": "红豆-销售属性规格-450克-规格属性图片"
+                    }
+                ]
+            }
+        ],
+        "skus": [
+            {
+                "id": "1136637",
+                "skuCode": "1136637",
+                "price": "19.00",
+                "oldPrice": "19.00",
+                "inventory": 100,
+                "picture": "./src/assets/pictures/450-1.png",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "valueName": "450克"
+                    }
+                ]
+            },
+            {
+                "id": "300258280",
+                "skuCode": "300258280",
+                "price": "42.80",
+                "oldPrice": "49.00",
+                "inventory": 0,
+                "picture": "./src/assets/pictures/450-3.png",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "valueName": "450克*3袋"
+                    }
+                ]
+            },
+            {
+                "id": "300258281",
+                "skuCode": "300258281",
+                "price": "82.80",
+                "oldPrice": "86.00",
+                "inventory": 0,
+                "picture": "./src/assets/pictures/450-6.png",
+                "specs": [
+                    {
+                        "name": "规格",
+                        "valueName": "450克*6袋"
+                    }
+                ]
+            }
+        ]
+    }
+}
