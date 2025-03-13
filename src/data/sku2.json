@@ -1,0 +1,330 @@
+{
+    "code": "1",
+    "msg": "操作成功",
+    "result": {
+        "id": "1369155859933827074",
+        "name": "钻石陶瓷涂层多用锅18cm 小奶锅",
+        "desc": "安全耐用，易于清洗",
+        "specs": [
+            {
+                "name": "颜色",
+                "id": "1369139574067957762",
+                "values": [
+                    {
+                        "name": "黑色",
+                        "picture": "./src/assets/pictures/black-pot.png",
+                        "desc": ""
+                    },
+                    {
+                        "name": "蓝色",
+                        "picture": "./src/assets/pictures/blue-pot.png",
+                        "desc": ""
+                    }
+                ]
+            },
+            {
+                "name": "尺寸",
+                "id": "1369141324204216321",
+                "values": [
+                    {
+                        "name": "30cm",
+                        "picture": null,
+                        "desc": ""
+                    },
+                    {
+                        "name": "20cm",
+                        "picture": null,
+                        "desc": ""
+                    },
+                    {
+                        "name": "10cm",
+                        "picture": null,
+                        "desc": ""
+                    }
+                ]
+            },
+            {
+                "name": "产地",
+                "id": "1369141916305723393",
+                "values": [
+                    {
+                        "name": "日本",
+                        "picture": null,
+                        "desc": ""
+                    },
+                    {
+                        "name": "中国",
+                        "picture": null,
+                        "desc": ""
+                    }
+                ]
+            }
+        ],
+        "skus": [
+            {
+                "id": "1369155862131642369",
+                "skuCode": "goods-sku-001",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 0,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "20cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155863389933570",
+                "skuCode": "goods-sku-007",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99654,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "20cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155864430120962",
+                "skuCode": "goods-sku-003",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99706,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "10cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155865461919746",
+                "skuCode": "goods-sku-009",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99926,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "10cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155866451775490",
+                "skuCode": "goods-sku-005",
+                "price": "128.00",
+                "oldPrice": "210.00",
+                "inventory": 99797,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "30cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155867420659714",
+                "skuCode": "goods-sku-011",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99843,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "30cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "中国"
+                    }
+                ]
+            },
+            {
+                "id": "1369155868389543937",
+                "skuCode": "goods-sku-002",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99429,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "20cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            },
+            {
+                "id": "1369155869354233857",
+                "skuCode": "goods-sku-008",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 0,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "20cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            },
+            {
+                "id": "1369155870306340866",
+                "skuCode": "goods-sku-004",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99936,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "10cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            },
+            {
+                "id": "1369155871241670658",
+                "skuCode": "goods-sku-010",
+                "price": "128.00",
+                "oldPrice": "200.00",
+                "inventory": 99952,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "10cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            },
+            {
+                "id": "1369155872197971970",
+                "skuCode": "goods-sku-006",
+                "price": "148.00",
+                "oldPrice": "190.00",
+                "inventory": 99805,
+                "picture": "./src/assets/pictures/blue-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "蓝色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "30cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            },
+            {
+                "id": "1369155873162661889",
+                "skuCode": "goods-sku-012",
+                "price": "148.00",
+                "oldPrice": "210.00",
+                "inventory": 99645,
+                "picture": "./src/assets/pictures/black-pot.png",
+                "specs": [
+                    {
+                        "name": "颜色",
+                        "valueName": "黑色"
+                    },
+                    {
+                        "name": "尺寸",
+                        "valueName": "30cm"
+                    },
+                    {
+                        "name": "产地",
+                        "valueName": "日本"
+                    }
+                ]
+            }
+        ]
+    }
+}
